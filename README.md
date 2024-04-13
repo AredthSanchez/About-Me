@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skar
+- 👋 Hi, I’m @Aredth Sanchez
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on Project ideas
