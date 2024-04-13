@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aredthsanchez
-- 👀 I’m interested in Cyber security and Software developement
+- 👋 Hi, I’m @Skar
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on Project ideas
 - 📫 How to reach me ig - Rockstarskar
