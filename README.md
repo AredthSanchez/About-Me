@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aredth Sanchez
-- 👀 Computer Science major interested in AI/ML and Software Engineering
+- 👀 I'm interested in AI/ML and Software Engineering
 - 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on Project ideas
 - 📫 How to reach me ig - rockstarskar
