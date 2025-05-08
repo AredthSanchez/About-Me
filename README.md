@@ -2,7 +2,7 @@
 - 👀 I'm interested in Software Engineering and AI/ML
 - 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on Project ideas
-- 📫 How to reach me ig - rockstarskar
+- 📫 How to reach me ig - www.linkedin.com/in/aredthsanchez
 
 <!---
 Aredthsanchez/Aredthsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
